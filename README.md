@@ -1,1 +1,2 @@
 # POWERBI
+I developed a comprehensive Power BI dashboard to analyze employee attrition, which included detailed visualizations segmented by age, gender, salary, job profile, years at the company, and education field. This project involved designing interactive charts and slicers, allowing for dynamic exploration of attrition trends and contributing to strategic workforce planning. The dashboard enabled HR to make data-driven decisions by providing clear insights into the factors influencing employee turnover, thereby enhancing overall decision-making capabilities.
